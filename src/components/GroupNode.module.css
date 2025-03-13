@@ -1,0 +1,10 @@
+.groupNode {
+  background-color: hsla(239, 80.6%, 14.1%, 0.54);
+  border: 2px solid gray;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.selected {
+  border-color: rgb(0, 255, 255);
+}
